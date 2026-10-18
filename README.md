@@ -19,6 +19,10 @@ focused, and safe. This repository is a public overview only.
 ## My role
 Product owner, workflow designer, and AI-assisted implementation lead.
 
+## AI-assisted development
+
+Developed with AI-assisted coding tools. I defined the requirements, workflow design, privacy boundaries, and human-approval rules. This repository presents a public project overview; it does not contain the implementation source code.
+
 ## Related
 - [Secure AI Career Operations Workflow](https://github.com/hltaylorjr/secure-ai-career-operations-workflow)
 - [herbertltaylor.com](https://herbertltaylor.com)
