@@ -3,6 +3,10 @@
 Career Mosaic is my personal AI-assisted career workflow, designed to keep a job search calm,
 focused, and safe. This repository is a public overview only.
 
+![Career Mosaic™ proposed workflow: job intake, résumé matching, scam checks, daily digest, and human approval](docs/career-mosaic-workflow-overview.png)
+
+*AI-assisted public design overview. Implementation and approval enforcement have not been independently verified; the graphic is not evidence of deployed integrations.*
+
 ## What it does
 - **Job intake** — gathers job openings and professional inquiries into one place.
 - **Resume-match scoring** — highlights the opportunities that best fit my experience.
